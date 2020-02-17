@@ -62,7 +62,6 @@ namespace Esercizio
                 txtOrdinate.Text += $" Posizione {i} : {lista[i]}\n ";
             }
         }
-
         //da finire il bottone pubblica
     }
 }
